@@ -1,0 +1,13 @@
+K:\ProyectosC#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+K:\ProyectosC#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+K:\ProyectosC#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+K:\ProyectosC#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+K:\ProyectosC#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+K:\ProyectosC#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+K:\ProyectosC#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+K:\ProyectosC#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+K:\ProyectosC#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+K:\ProyectosC#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+K:\ProyectosC#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Clientes.resources
+K:\ProyectosC#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Inicio.resources
+K:\ProyectosC#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Vista.Contadores.resources
