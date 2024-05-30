@@ -11,3 +11,16 @@ K:\ProyectosC#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
 K:\ProyectosC#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Clientes.resources
 K:\ProyectosC#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Inicio.resources
 K:\ProyectosC#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Vista.Contadores.resources
+C:\Users\kevin\OneDrive\Documentos\GitHub\H2OInnovateBilling\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\kevin\OneDrive\Documentos\GitHub\H2OInnovateBilling\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\kevin\OneDrive\Documentos\GitHub\H2OInnovateBilling\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\kevin\OneDrive\Documentos\GitHub\H2OInnovateBilling\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Documentos\GitHub\H2OInnovateBilling\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Clientes.resources
+C:\Users\kevin\OneDrive\Documentos\GitHub\H2OInnovateBilling\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Vista.Contadores.resources
+C:\Users\kevin\OneDrive\Documentos\GitHub\H2OInnovateBilling\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\kevin\OneDrive\Documentos\GitHub\H2OInnovateBilling\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Inicio.resources
+C:\Users\kevin\OneDrive\Documentos\GitHub\H2OInnovateBilling\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\kevin\OneDrive\Documentos\GitHub\H2OInnovateBilling\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\kevin\OneDrive\Documentos\GitHub\H2OInnovateBilling\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Documentos\GitHub\H2OInnovateBilling\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\kevin\OneDrive\Documentos\GitHub\H2OInnovateBilling\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

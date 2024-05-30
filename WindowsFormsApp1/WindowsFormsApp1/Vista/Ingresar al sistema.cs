@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Data.SqlClient;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -26,6 +27,7 @@ namespace WindowsFormsApp1
         private void Form1_Load(object sender, EventArgs e)
         {
             //Conexion con = new Conexion();
+            
         }
 
         private void btnIngresar_Click(object sender, EventArgs e)
@@ -33,5 +35,7 @@ namespace WindowsFormsApp1
             Inicio i = new Inicio();
             i.Show();
         }
+
+       
     }
 }
