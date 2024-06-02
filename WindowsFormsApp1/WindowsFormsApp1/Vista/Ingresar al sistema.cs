@@ -8,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using WindowsFormsApp1.Modelo;
+
 
 namespace WindowsFormsApp1
 {
@@ -26,8 +26,8 @@ namespace WindowsFormsApp1
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            //Conexion con = new Conexion();
-            
+        //    Conexion.Conectar();
+
         }
 
         private void btnIngresar_Click(object sender, EventArgs e)
