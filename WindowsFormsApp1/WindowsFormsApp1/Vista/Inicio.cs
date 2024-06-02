@@ -2,12 +2,14 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Data.SqlClient;
 using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using WindowsFormsApp1.Vista;
+
 
 namespace WindowsFormsApp1
 {
@@ -16,6 +18,8 @@ namespace WindowsFormsApp1
         public Inicio()
         {
             InitializeComponent();
+            
+            
         }
 
         private void label3_Click(object sender, EventArgs e)
@@ -39,5 +43,9 @@ namespace WindowsFormsApp1
             Contadores contadores = new Contadores();
             contadores.Show();
         }
+
+        
+        
+
     }
 }

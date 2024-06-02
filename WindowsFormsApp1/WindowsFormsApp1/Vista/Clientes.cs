@@ -2,6 +2,8 @@
 using System.Data;
 using System.Data.SqlClient;
 using System.Windows.Forms;
+using WindowsFormsApp1.Modelo;
+
 
 namespace WindowsFormsApp1
 {
@@ -10,12 +12,13 @@ namespace WindowsFormsApp1
         public Clientes()
         {
             InitializeComponent();
+
         }
 
         private void Clientes_Load(object sender, EventArgs e)
         {
-            
-            dataGridView1.DataSource = llenar_grid();
+
+           Conexion db = new Conexion();
         }
 
         private void button3_Click(object sender, EventArgs e)
@@ -28,16 +31,6 @@ namespace WindowsFormsApp1
 
         }
 
-        public DataTable llenar_grid()
-        {
-           
-            DataTable dt = new DataTable();
-            string consulta = "select * from Clientes";
-            SqlCommand cmd = new SqlCommand(consulta);
-
-            SqlDataAdapter da = new SqlDataAdapter(cmd);
-            da.Fill(dt);
-            return dt;
-        }
+      
     }
 }

@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\H2OInnovateBilling\\WindowsFormsApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{022F75B3-9314-4C5B-85A9-AB6D114F1077}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\H2OInnovateBilling\\WindowsFormsApp1\\windowsformsapp1\\vista\\ingresar al sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{022F75B3-9314-4C5B-85A9-AB6D114F1077}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\vista\\ingresar al sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{022F75B3-9314-4C5B-85A9-AB6D114F1077}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\kevin\\onedrive\\documentos\\github\\h2oinnovatebilling\\windowsformsapp1\\windowsformsapp1\\modelo\\dbconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022F75B3-9314-4C5B-85A9-AB6D114F1077}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\modelo\\dbconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{022F75B3-9314-4C5B-85A9-AB6D114F1077}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\H2OInnovateBilling\\WindowsFormsApp1\\windowsformsapp1\\vista\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{022F75B3-9314-4C5B-85A9-AB6D114F1077}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\vista\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{022F75B3-9314-4C5B-85A9-AB6D114F1077}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\H2OInnovateBilling\\WindowsFormsApp1\\windowsformsapp1\\vista\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022F75B3-9314-4C5B-85A9-AB6D114F1077}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\vista\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{022F75B3-9314-4C5B-85A9-AB6D114F1077}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\H2OInnovateBilling\\WindowsFormsApp1\\windowsformsapp1\\vista\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{022F75B3-9314-4C5B-85A9-AB6D114F1077}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\vista\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{022F75B3-9314-4C5B-85A9-AB6D114F1077}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\H2OInnovateBilling\\WindowsFormsApp1\\windowsformsapp1\\vista\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{022F75B3-9314-4C5B-85A9-AB6D114F1077}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\vista\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{022F75B3-9314-4C5B-85A9-AB6D114F1077}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\H2OInnovateBilling\\WindowsFormsApp1\\windowsformsapp1\\vista\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{022F75B3-9314-4C5B-85A9-AB6D114F1077}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\vista\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022F75B3-9314-4C5B-85A9-AB6D114F1077}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\H2OInnovateBilling\\WindowsFormsApp1\\windowsformsapp1\\vista\\ingresar al sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022F75B3-9314-4C5B-85A9-AB6D114F1077}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\vista\\ingresar al sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{022F75B3-9314-4C5B-85A9-AB6D114F1077}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\H2OInnovateBilling\\WindowsFormsApp1\\windowsformsapp1\\vista\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -42,17 +46,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "DbConexion.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\H2OInnovateBilling\\WindowsFormsApp1\\WindowsFormsApp1\\Modelo\\DbConexion.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Modelo\\DbConexion.cs",
+              "ToolTip": "C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\H2OInnovateBilling\\WindowsFormsApp1\\WindowsFormsApp1\\Modelo\\DbConexion.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Modelo\\DbConexion.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwBAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T15:57:54.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Clientes.cs",
               "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\H2OInnovateBilling\\WindowsFormsApp1\\WindowsFormsApp1\\Vista\\Clientes.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Vista\\Clientes.cs",
               "ToolTip": "C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\H2OInnovateBilling\\WindowsFormsApp1\\WindowsFormsApp1\\Vista\\Clientes.cs",
               "RelativeToolTip": "WindowsFormsApp1\\Vista\\Clientes.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAA0AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-30T04:44:48.274Z",
               "EditorCaption": ""
@@ -65,14 +82,14 @@
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Vista\\Inicio.cs",
               "ToolTip": "C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\H2OInnovateBilling\\WindowsFormsApp1\\WindowsFormsApp1\\Vista\\Inicio.cs",
               "RelativeToolTip": "WindowsFormsApp1\\Vista\\Inicio.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAeAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAiwBQAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-23T02:01:45.223Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Inicio.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\H2OInnovateBilling\\WindowsFormsApp1\\WindowsFormsApp1\\Vista\\Inicio.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Vista\\Inicio.cs",
@@ -84,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Ingresar al sistema.cs",
               "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\H2OInnovateBilling\\WindowsFormsApp1\\WindowsFormsApp1\\Vista\\Ingresar al sistema.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Vista\\Ingresar al sistema.cs",
@@ -97,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Ingresar al sistema.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\H2OInnovateBilling\\WindowsFormsApp1\\WindowsFormsApp1\\Vista\\Ingresar al sistema.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Vista\\Ingresar al sistema.cs",
@@ -109,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Clientes.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\H2OInnovateBilling\\WindowsFormsApp1\\WindowsFormsApp1\\Vista\\Clientes.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Vista\\Clientes.cs",
@@ -121,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\H2OInnovateBilling\\WindowsFormsApp1\\WindowsFormsApp1\\Controlador\\Cliente.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Controlador\\Cliente.cs",
@@ -134,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Contadores.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Documentos\\GitHub\\H2OInnovateBilling\\WindowsFormsApp1\\WindowsFormsApp1\\Vista\\Contadores.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Vista\\Contadores.cs",
