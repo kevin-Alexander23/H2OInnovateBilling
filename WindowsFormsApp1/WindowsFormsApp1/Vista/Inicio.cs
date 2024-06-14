@@ -8,6 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using WindowsFormsApp1.Modelo;
 using WindowsFormsApp1.Vista;
 
 
@@ -44,8 +45,10 @@ namespace WindowsFormsApp1
             contadores.Show();
         }
 
-        
-        
-
+        private void Inicio_Load(object sender, EventArgs e)
+        {
+            Conexion conectar = new Conexion();
+            conectar.Abrir();
+        }
     }
 }
