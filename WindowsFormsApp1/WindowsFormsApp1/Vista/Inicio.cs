@@ -50,5 +50,11 @@ namespace WindowsFormsApp1
             Conexion conectar = new Conexion();
             conectar.Abrir();
         }
+
+        private void btnPagos_Click(object sender, EventArgs e)
+        {
+            Pagos pagos = new Pagos(); 
+            pagos.Show();
+        }
     }
 }

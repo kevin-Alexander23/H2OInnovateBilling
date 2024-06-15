@@ -68,6 +68,7 @@
             this.btnPagos.TabIndex = 6;
             this.btnPagos.Text = "Pagos";
             this.btnPagos.UseVisualStyleBackColor = true;
+            this.btnPagos.Click += new System.EventHandler(this.btnPagos_Click);
             // 
             // pictureBox1
             // 

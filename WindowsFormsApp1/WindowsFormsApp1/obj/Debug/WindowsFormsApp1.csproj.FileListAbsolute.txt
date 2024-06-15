@@ -24,3 +24,4 @@ C:\Users\kevin\OneDrive\Documentos\GitHub\H2OInnovateBilling\WindowsFormsApp1\Wi
 C:\Users\kevin\OneDrive\Documentos\GitHub\H2OInnovateBilling\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\kevin\OneDrive\Documentos\GitHub\H2OInnovateBilling\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\kevin\OneDrive\Documentos\GitHub\H2OInnovateBilling\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\kevin\OneDrive\Documentos\GitHub\H2OInnovateBilling\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Vista.Pagos.resources
